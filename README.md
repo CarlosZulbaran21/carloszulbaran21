@@ -19,7 +19,7 @@ Passionate developer with over 3 years of experience, dedicated to continuous le
 
 You can find me 🌎:
 - [Portfolio](https://web-portfolio-carlos-zulbaran.vercel.app)
-- [Linkedin]([in/carlos-zulbaran-40a5a2198](https://www.linkedin.com/in/carlos-zulbaran-40a5a2198/))
+- [Linkedin](https://www.linkedin.com/in/carlos-zulbaran-40a5a2198)
 <!--
 **CarlosZulbaran21/carloszulbaran21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
